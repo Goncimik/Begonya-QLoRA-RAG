@@ -74,8 +74,6 @@ Projenin sonraki sürümlerinde yanıt doğruluğunun artırılması, RAG mimari
 
 ---
 
-**Geliştirici:** Hafize Gonca Çömert
-
 **Proje:** Tech İstanbul | Uygulamalı Yapay Zekâ Bootcamp – Bitirme Projesi
 
 *Begonya, eğitim ve araştırma amaçlı geliştirilmiş bir yapay zekâ prototipidir.*
