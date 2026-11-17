@@ -72,7 +72,7 @@ Deney sonuçları ve çalışma çıktıları Jupyter notebook içerisinde sunul
 
 ## 📝 Medium | Geliştirme Hikâyesi
 
-[Bir Dil Modelini Eğitmek Yetiyor mu? QLoRA, RAG ve Begonya Deneyimi](https://medium.com/@goncacomert/bir-dil-modelini-e%C4%9Fitmek-yetiyor-mu-qlora-rag-ve-begonya-deneyimi-1749ebcd69d7)
+[medium:](https://medium.com/@goncacomert/bir-dil-modelini-e%C4%9Fitmek-yetiyor-mu-qlora-rag-ve-begonya-deneyimi-1749ebcd69d7)
 
 *Begonya, eğitim ve araştırma amaçlı geliştirilmiş bir yapay zekâ prototipidir.*
 
