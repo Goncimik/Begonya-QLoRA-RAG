@@ -68,15 +68,13 @@ Deney sonuçları ve çalışma çıktıları Jupyter notebook içerisinde sunul
 - RAG sistemi her durumda doğru bilgi kullanımını garanti etmemektedir.
 - Uygulamanın üretim ortamındaki güvenilirliği ayrıca doğrulanmalıdır.
 
----
 
 ## 📝 Medium | Geliştirme Hikâyesi
 
-[medium:](https://medium.com/@goncacomert/bir-dil-modelini-e%C4%9Fitmek-yetiyor-mu-qlora-rag-ve-begonya-deneyimi-1749ebcd69d7)
+[medium](https://medium.com/@goncacomert/bir-dil-modelini-e%C4%9Fitmek-yetiyor-mu-qlora-rag-ve-begonya-deneyimi-1749ebcd69d7)
 
 *Begonya, eğitim ve araştırma amaçlı geliştirilmiş bir yapay zekâ prototipidir.*
 
----
 
 ## 🚀 Gelecek Geliştirmeler
 
